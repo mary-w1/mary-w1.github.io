@@ -1,0 +1,30 @@
+---
+title: "Home"
+
+about:
+  id: intro-heading
+  template: trestles
+  links:
+    - icon: envelope
+      href: mailto:wu21@stolaf.edu
+    - icon: github
+      href: https://github.com/mary-w1
+
+---
+:::{#intro-heading}
+
+## Mary Wu
+
+Mathematics Student at St. Olaf College <br>
+
+### Education
+
+BA in Mathematics <br>
+2024 | St. Olaf College
+
+:::
+
+### Get in Touch
+
+**Email**: <a href='mailto:wu21@stolaf.edu'>wu21 at stolaf.edu</a>
+
