@@ -10,6 +10,22 @@ website:
         text: Home
       - about.qmd
 
+
+  page-footer:
+    left: |
+      &copy; Mary Wu, 2024<br>
+      All content licensed under <i class='bi-badge-cc'></i>
+      [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+    right: |
+      Site built with <a href='https://quarto.org/'>Quarto</a>
+      
+  sidebar:
+    -id: mini-project
+    title: "Mini Project 1"
+    contents: 
+      - WI_Gerrymandering.qmd
+      - US_States_and_Minimum_Wage.qmd
+
 format:
   html:
     theme: cosmo
@@ -18,3 +34,7 @@ format:
 
 editor: visual
 
+
+
+
+  
