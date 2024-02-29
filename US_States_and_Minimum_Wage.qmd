@@ -179,8 +179,6 @@ fed_minimum_wage_2020 |>
 
 **Figure 5** again depicts the state minimum wage across the United States, this time for the year of 2020. What is super surprising to me is that there are still certain states in the South that are not paying their workers a livable wage. The states of California, Washington, and the upper East Coast states are continually increasing their minimum wage to match what they believe will allow their residents to have a minimum quality of life. Notice how the states of Florida and Georgia have slightly increased their minimum wage, but certainly not enough where their residents and workers are able to have a quality of life. **Figure 6** depicts the difference between the federal minimum wage and the federal minimum wage. Again, the majority of states in the Southern region are underpaying their workers. Even though there is a federal minimum, those particular states are not matching it. This affects the quality of life of the residents who reside in those states. There seems to be a half and half split of whether or not states are paying their workers a livable wage. The purple shades indicates particular states where they are paying their workers above the federal minimum wage. While the states shaded in red indicate that those states are under paying their workers.
 
-##Conclusion 
+## Conclusion
 
 Although the minimum wage increased throughout the years in response to the minimum quality of life threshold; we have to realize that just because workers are being paid minimum wage that does not mean they have a decent quality of life. There are certain states where individuals are still not being paid enough.
-
-## maybe have a better concluding sentence here? it seems to just end so suddenly. do i want to talk about the being under the poverty line , ?
