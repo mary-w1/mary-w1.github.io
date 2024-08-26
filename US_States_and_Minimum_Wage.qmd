@@ -181,6 +181,6 @@ fed_minimum_wage_2020 |>
 
 **Figure 6** depicts the difference between the federal minimum wage and the federal minimum wage. Again, the majority of states in the Southern region are underpaying their workers. Even though there is a federal minimum, those particular states are not matching it. This affects the quality of life of the residents who reside in those states. There seems to be a half and half split of whether or not states are paying their workers a livable wage. The purple shades indicates particular states where they are paying their workers above the federal minimum wage. While the states shaded in red indicate that those states are under paying their workers.
 
-## Conclusion
+## Conclusion 
 
 Although the minimum wage increased throughout the years in response to the minimum quality of life threshold; we have to realize that just because workers are being paid minimum wage that does not mean they have a decent quality of life. There are certain states where individuals are still not being paid enough.
